@@ -7,10 +7,7 @@ import pandas as pd
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 
 def main():
-    # Disable OAuthlib's HTTPS verification when running locally.
-    # *DO NOT* leave this option enabled in production.
     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
-
     api_service_name = "youtube"
     api_version = "v3"
     client_secrets_file = "client_secret.json"
