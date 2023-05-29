@@ -1,2 +1,5 @@
 # TFG-BadGyal
-Repositori dels annexes del trefall de fi de grau: ANÀLISI DE LES PLATAFORMES I SERVEIS D E STREAMING UTILITZ AT S PER L ARTISTA BAD GYAL: ESTUDI DE LA CONVERSA I L IMPACTE A SPOTIFY, YOUTUBE I TWITTER
+Repositori dels annexes del treball de fi de grau (TFG): Anàlisi de les plataformes i serveis de streaming utilitzats per l'artista Bad Gyal: Estudi de la conversa i l'impacte a Spotify, YouTube i Twitter.
+Consulteu a les carpetes els diferents arxius de codi Python per a l'extracció i transformació de les dades.
+
+Tots els drets reservats.
