@@ -1,17 +1,3 @@
-# DEPENDENCIAS
-# pip install tqdm
-# pip install pandas
-# pip install transformers
-# pip install torch
-#####
-
-# EJEMPLOS DE MODELOS
-# https://huggingface.co/MMG/xlm-roberta-base-sa-spanish
-# https://huggingface.co/jorgeortizfuentes/spanish_hate_speech
-# https://huggingface.co/francisco-perez-sorrosal/distilbert-base-uncased-finetuned-with-spanish-tweets-clf
-#####
-
-
 import glob
 from tqdm import tqdm
 import pandas as pd
