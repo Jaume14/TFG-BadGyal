@@ -3,5 +3,7 @@ Repositori dels annexes del treball de fi de grau (TFG): Anàlisi de les platafo
 
 - Consulteu a les carpetes els diferents arxius de codi Python per a l'extracció i transformació de les dades.
 - La memòria del treball la podeu trobar al fitxer: TFG_Sacristan_Via_Jaume_2023.pdf
+- [Memòria TFG](TFG_Sacristan_Via_Jaume_2023.pdf)
+- https://github.com/Jaume14/TFG-BadGyal/blob/main/TFG_Sacristan_Via_Jaume_2023.pdf
 
 Tots els drets reservats.
